@@ -1,4 +1,4 @@
-# ICEBERG Backend (Node + TypeScript + Prisma + Kafka + Docker)
+# ICEBERG Backend (Node + TypeScript + Prisma)
 
 Пример многослойной (**луковой**) архитектуры на TypeScript с использованием:
 - **Express** в качестве HTTP‐сервера  
